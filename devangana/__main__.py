@@ -80,19 +80,14 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*ʜᴇʏ,\n ᴛʜɪs ɪs {}* [!](https://telegra.ph/file/9053380e30ba23bbd9d21.jpg)\n\n ⏤‌★𝐊𝐊 𝐀𝐑𝐌𝐘 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋ꗄ➺
-
-This is a Social Media Friendship Gang with Ultra strong Bond of Lots of Love💞 . We always Try to bring forward the New ideas to  front of the members . We consider our members all are our Family Members . 
-
-         ☬C‌o‌n‌s‌t‌a‌n‌t‌ A‌d‌m‌i‌n‌s‌☬
-
+*ʜᴇʏ,\n ᴛʜɪs ɪs {}* [!](https://telegra.ph/file/9053380e30ba23bbd9d21.jpg)\n\n ⏤‌★𝐊𝐊 𝐀𝐑𝐌𝐘 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋ꗄ➺\n\n This is a Social Media Friendship Gang with Ultra strong Bond of Lots of Love💞 . We always Try to bring forward the New ideas to  front of the members . We consider our members all are our Family Members . 
+       ☬C‌o‌n‌s‌t‌a‌n‌t‌ A‌d‌m‌i‌n‌s‌☬
  💻  @ANIYATHIKUTTIEEDE_CHECHIKUTTI
  🖥  @JinnSulthan
  🎭  @im_casanova 
  🕺  @KottayamkunjachanM88 
  💃🏾  @Kappusz
  🥷🏾  @L_The_Fallen_Angel
-
 Important:- We have a Group and Channel to Register Social media Complaint . 
  one more thing :- They are Connected with Kerala cyber cell(dome), Kerala POLICE Force , indian Army Communication Dept.
 ✍🏾Channel :- @complaint_portal_tg
@@ -102,14 +97,14 @@ buttons = [
     [
         InlineKeyboardButton(
             text="✗ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ​ ✗",
-            url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
+            url=f"https://t.me/Stenzle_MariaGbot?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="🧐 ʜᴇʟᴘ & ᴄᴍᴅs​​​ 🧐", callback_data="help_back"),
+        InlineKeyboardButton(text="🧐Commands🧐", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="💞 ᴀʙᴏᴜᴛ ᴍᴇ​​ 💞", callback_data="fallen_"),
+        InlineKeyboardButton(text="💞About💞", callback_data="fallen_"),
         
     ],
     [
