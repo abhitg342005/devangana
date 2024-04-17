@@ -13,7 +13,7 @@
    "addons": [
       {
          "options": {
-            "version": "12"
+            "version": "15"
          },
          "plan": "heroku-postgresql"
       }
@@ -22,17 +22,17 @@
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": "1913023890:AAFNrOsZnhyq2rvdfdjx-RP0AgwzjWu_blg"
+         "value": "6868672941:AAHw5WIzU488kaV6huIcoYdZ00ZE2HklPqA"
       },
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "1701859"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "ebd582392a6d32290c7155925bee6d32"
       },    
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, Leave this field empty if you don't have one.",
@@ -42,11 +42,11 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5414162824"
+         "value": "6627630052"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
-        "value": "0c925b70-0d54-46ca-a679-5739131fc22c"
+        "value": "HRKU-02d44984-b1b0-450b-a08f-bfa524ce67a5"
       },
       "HEROKU_APP_NAME": {
         "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
@@ -54,12 +54,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "ANIYATHIKUTTIEEDE_CHECHIKUTTI"
+         "value": "BE_HALF_OF_KRISHNA"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "Non_Stop_Talkies"
+         "value": "https://t.me/Mallus_Streets"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -69,12 +69,12 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001792513216"
+         "value": ""
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001792513216"
+         "value": "-1002102639876"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -94,7 +94,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Fallen Support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "5503730873 5480504468 5184529235 718444116 5460774651 5007155069 1178184503 5020973715 5020973715 5453119118 1848432319 1731331555 5114929832 5435332627 796078685 2102011417 1833664399 5383832903 1704558172 2131905308 1996383067 1877279215 1378572693 5372759725 1611028827 1082683910 5088486752 5246020549 2072228613"
+         "value": ""
       },
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -103,7 +103,7 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "5503730873 5480504468 5184529235 718444116 5460774651 5007155069 1178184503 5020973715 5020973715 5453119118 1848432319 1731331555 5114929832 5435332627 796078685 2102011417 1833664399 5383832903 1704558172 2131905308 1996383067 1877279215 1378572693 5372759725 1611028827 1082683910 5088486752 5246020549 2072228613"
+         "value": ""
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
@@ -156,7 +156,7 @@
       "DONATION_LINK": {
          "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to Anonymous",
          "required": false,
-         "value": "https://t.me/ANIYATHIKUTTIEEDE_CHECHIKUTTI"
+         "value": "https://t.me/Mallus_Streets"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
