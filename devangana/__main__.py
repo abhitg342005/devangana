@@ -80,17 +80,15 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*ʜᴇʏ,\n ᴛʜɪs ɪs {}* [!](https://telegra.ph/file/9053380e30ba23bbd9d21.jpg)\n\n ⏤‌★𝐊𝐊 𝐀𝐑𝐌𝐘 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋ꗄ➺\n\n This is a Social Media Friendship Gang with Ultra strong Bond of Lots of Love💞 . We always Try to bring forward the New ideas to  front of the members . We consider our members all are our Family Members . 
+*ʜᴇʏ,\n ᴛʜɪs ɪs {}* [!](https://telegra.ph/file/9053380e30ba23bbd9d21.jpg)\n\n 𝙆𝙐𝙍𝙐𝙆𝙎𝙃𝙀𝙏𝙍𝘼 \n\n This is a Social Media Friendship Gang with Ultra strong Bond of Lots of Love💞 . We always Try to bring forward the New ideas to  front of the members . We consider our members all are our Family Members . 
        ☬C‌o‌n‌s‌t‌a‌n‌t‌ A‌d‌m‌i‌n‌s‌☬
- 💻  @ANIYATHIKUTTIEEDE_CHECHIKUTTI
- 🖥  @JinnSulthan
- 🎭  @im_casanova 
- 🕺  @KottayamkunjachanM88 
- 💃🏾  @Kappusz
- 🥷🏾  @L_The_Fallen_Angel
-Important:- We have a Group and Channel to Register Social media Complaint . 
- one more thing :- They are Connected with Kerala cyber cell(dome), Kerala POLICE Force , indian Army Communication Dept.
-✍🏾Channel :- @complaint_portal_tg
+ 💻  @BE_HALF_OF_KRISHNA
+ 🖥  @Abhi34200
+ 🎭  @Bloodysweeett
+ 🕺  @Rocky_bhai_officiall
+ 💃🏾  @Exnos_TG_33
+
+✍🏾Channel :- @about_abhiiii
 """
 
 buttons = [
